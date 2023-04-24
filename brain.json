@@ -1,5 +1,5 @@
 {
-    "interval": 10,     
+    "interval": 10000,     
     "max_ads": 3,      
     "ad_unit_id": ""  
 }
